@@ -13,6 +13,7 @@ export class CharactersService {
         'Chuck McGill',
         'Howard Hamlin',
         'Lalo Salamanca',
+        'Cocobolo',
       ],
     };
   }
